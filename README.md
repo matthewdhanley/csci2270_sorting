@@ -5,7 +5,6 @@
 # 	insertion
 # 	shell
 # 
-# Running these programs will show step by step how arrays are 
-# sorted by each algorithim.i
+# Running these programs will show step by step how arrays are sorted by each algorithim.
 # 
 # To stop the input of numbers into the array, enter 999.
