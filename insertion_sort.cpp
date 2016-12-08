@@ -36,6 +36,11 @@ int main(){
 			myArr.push_back(x);
 		}
 	}
+	cout<<"original array:"<<endl;
+	for(int k=0; k<myArr.size(); k++){
+					cout<<myArr[k]<<" ";
+	}
+	cout<<endl<<endl;
 	insertion_sort(myArr);
 	return 0;
 }
