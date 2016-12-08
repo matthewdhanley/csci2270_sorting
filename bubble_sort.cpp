@@ -34,7 +34,7 @@ int main(){
 	for(int k=0; k<myArr.size(); k++){
 					cout<<myArr[k]<<" ";
 	}
-	cout<<endl;
+	cout<<endl<<endl;
 	bubble(myArr);
 	return 0;
 }
