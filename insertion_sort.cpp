@@ -26,6 +26,7 @@ void insertion_sort (vector <int> arr){
 
 
 int main(){
+	cout<<"INPUT 999 TO END LIST"<<endl<<endl;
 	vector <int> myArr;
 	int x = 0;
 	while(x != 999){
